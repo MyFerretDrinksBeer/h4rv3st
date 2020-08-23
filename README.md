@@ -3,7 +3,7 @@ Simple and effective email harvester written in JavaScript/node.js.  With 3 comm
 
 
 
-<h1>Install & Setup</h1>
+<h2>Install & Setup</h2>
 
 <ol> 
    <li>This application runs in Node.js so if you do not have node installed then install it <a href="https://nodejs.org/en/">here</a></li>
@@ -11,3 +11,7 @@ Simple and effective email harvester written in JavaScript/node.js.  With 3 comm
    <li>Install all nessessary node modules by running <b>npm install jsdom got chalk fs figlet inquirer --save</b></li>
    <li>Once node modules are downloaded you can now start h4rv3st by running <b>node harvester.js</b></li>
 </ol>
+
+<br><br>
+
+<h2>Use</h2>
