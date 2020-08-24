@@ -18,24 +18,24 @@ Simple and effective email harvester written in JavaScript/node.js.  With 3 comm
 
 
 <b>Start-up / Options</b>
-![Screenshot 1](./images/screenshot1.png)
+![Screenshot 1](./screenshots/screenshot1.png)
 
 <br>
 
 <b>Set URL / Collect</b>
-![Screenshot 2](./images/screenshot2.png)
+![Screenshot 2](./screenshots/screenshot2.png)
 
 <br>
 
 <b>Collecting (URL's)</b>
-![Screenshot 3](./images/screenshot3.png)
+![Screenshot 3](./screenshots/screenshot3.png)
 
 <br>
 
 <b>Start harvester</b>
-![Screenshot 4](./images/screenshot4.png)
+![Screenshot 4](./screenshots/screenshot4.png)
 
 <br>
 
 <b>Harvesting emails</b>
-![Screenshot 5](./images/screenshot5.png)
+![Screenshot 5](./screenshots/screenshot5.png)
